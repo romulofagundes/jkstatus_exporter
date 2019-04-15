@@ -7,7 +7,7 @@ import org.yaml.snakeyaml.Yaml
 
 
 class Main {
-    static final String DEFAULT_PORT = "9571"
+    static final String DEFAULT_PORT = "9573"
     static final String DEFAULT_CONFIG = "/etc/jkstatus_exporter/config.yml"
 
     static void main(String[] args) {
