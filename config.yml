@@ -1,0 +1,9 @@
+remote:
+  url: https://remote/
+  context: jkstatus
+  login: admin
+  pass: secret
+
+local:
+  url: http://127.0.0.1/
+  context: jkstatus
